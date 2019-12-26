@@ -1,0 +1,51 @@
+#container
+{
+    
+    width:30%;
+    height: 70px;
+    margin : 0 auto;
+     
+     
+}
+ h1
+ {
+    text-align : center;
+ }
+div   div
+{
+     
+    padding-bottom: 30px;
+    width:30%;   
+    margin:1%;
+    float: left;
+}
+
+ 
+#two
+{
+  border-left:1px solid black;
+  border-right : 1px solid black ;
+  padding-bottom: 30px;
+
+}
+
+#four
+{
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+}
+#six
+{
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+}
+ 
+#five
+{
+  border:1px solid black;
+}
+#eight
+{
+    border-left : 1px solid black ;
+    border-right : 1px solid black ;
+}
